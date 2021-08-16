@@ -7,6 +7,7 @@ import math
 root = tk.Tk()
 
 root.title("Calculator")
+# icon for calculator
 root.iconbitmap("Calculator icon.ico")
 i = 0 #keeps track of current position on input text field
 #define the function to insert num at ith position
